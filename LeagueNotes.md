@@ -46,7 +46,9 @@
         <tr>
             <td rowspan=2>Volibear</td>
             <td>Top</td>
-            <td>[LolAlytics - Volibear > Top](https://lolalytics.com/lol/volibear/build/?lane=top)</td>
+            <td>
+               <a href="https://lolalytics.com/lol/volibear/build/?lane=top">LolAlytics - Volibear > Top</a>
+            </td>
         </tr>
         <tr>
             <td>Jungle</td>
