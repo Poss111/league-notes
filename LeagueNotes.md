@@ -54,6 +54,9 @@
             <td>Jungle</td>
             <td>
                <a href="https://lolalytics.com/lol/volibear/build/?lane=jungle">LolAlytics</a>
+               <a href="https://jungler.gg/champions/volibear/">Jungler.gg</a>
+               <a href="https://www.op.gg/champions/volibear/jungle/build?region=global&tier=platinum_plus">Op.gg</a>
+               <a href="https://www.mobafire.com/league-of-legends/build/my-immortal-volibear-build-574081">Mobafire</a>
             </td>
         </tr>
         <tr>
