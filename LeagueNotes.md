@@ -47,12 +47,56 @@
             <td rowspan=2>Volibear</td>
             <td>Top</td>
             <td>
-               <a href="https://lolalytics.com/lol/volibear/build/?lane=top">LolAlytics - Volibear > Top</a>
+               <a href="https://lolalytics.com/lol/volibear/build/?lane=top">LolAlytics</a>
             </td>
         </tr>
         <tr>
             <td>Jungle</td>
-            <td>[LolAlytics - Volibear > Jungle](https://lolalytics.com/lol/volibear/build/?lane=jungle)</td>
+            <td>
+               <a href="https://lolalytics.com/lol/volibear/build/?lane=jungle">LolAlytics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Nocturne</td>
+            <td>Jungle</td>
+            <td>
+               <a href="https://lolalytics.com/lol/nocturne/build/?lane=jungle">LolAlytics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Bel'Veth</td>
+            <td>Jungle</td>
+            <td>
+               <a href="https://lolalytics.com/lol/belveth/build/?lane=jungle">LolAlytics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Kha'Zix</td>
+            <td>Jungle</td>
+            <td>
+               <a href="https://lolalytics.com/lol/khazix/build/?lane=jungle">LolAlytics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Kayn</td>
+            <td>Jungle</td>
+            <td>
+               <a href="https://lolalytics.com/lol/kayn/build/?lane=jungle">LolAlytics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Lillia</td>
+            <td>Jungle</td>
+            <td>
+               <a href="https://lolalytics.com/lol/lillia/build/?lane=jungle">LolAlytics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Zac</td>
+            <td>Jungle</td>
+            <td>
+               <a href="https://lolalytics.com/lol/zac/build/?lane=jungle">LolAlytics</a>
+            </td>
         </tr>
     </tbody>
 </table>
