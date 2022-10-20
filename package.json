@@ -7,7 +7,7 @@
     "marp3": "marp LeagueNotes.md",
     "postmarp3": "marp LeagueNotes.md -o LeagueNotes.pdf",
     "build": "marked -i LeagueNotes.md -o LeagueNotes.html",
-    "styles": "generate-md --layout mixu-bootstrap-2col --input LeagueNotes.md --output ./output"
+    "styles": "generate-md --layout mixu-bootstrap-2col --input index.md --output ./output"
   },
   "author": "",
   "license": "ISC",
