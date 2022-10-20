@@ -88,6 +88,13 @@
             </td>
         </tr>
         <tr>
+            <td>Viego</td>
+            <td>Jungle</td>
+            <td>
+               <a href="https://lolalytics.com/lol/viego/build/?lane=jungle">LolAlytics</a>
+            </td>
+        </tr>
+        <tr>
             <td>Lillia</td>
             <td>Jungle</td>
             <td>
