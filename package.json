@@ -1,0 +1,18 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "marp3": "marp LeagueNotes.md",
+    "postmarp3": "marp LeagueNotes.md -o LeagueNotes.pdf",
+    "build": "marked -i LeagueNotes.md -o LeagueNotes.html",
+    "styles": "generate-md --layout mixu-bootstrap-2col --input LeagueNotes.md --output ./output"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-styles": "^3.2.0",
+    "marked": "^4.1.1"
+  }
+}
